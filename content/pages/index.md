@@ -106,9 +106,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      More Than Photos, It's Your Memories
     actions:
       - label: Get started
         url: /
