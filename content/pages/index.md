@@ -8,13 +8,7 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: 'Empowering Your Lifestyle, One Trend at a Time'
-    text: >
-      Thiele Venture är din destination för trendiga konsumtionsvaror online. Vi
-      kombinerar innovation och kvalitet genom att skapa unika varumärken och
-      dedikerade butiker för varje produktkategori. Vår mission är att leverera
-      de senaste trenderna direkt till din dörr, med en kundupplevelse som är
-      både smidig och inspirerande. Från heminredning till mode och elektronik –
-      vi har allt för att göra ditt liv enklare och mer stilsäkert.
+    text: ''
     actions:
       - label: Get started
         altText: ''
