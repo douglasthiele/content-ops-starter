@@ -9,14 +9,15 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Curating Trends, Delivering Dreams
+      Curating Trends, Delivering Dreams.
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/hero3.svg
     badge:
-      label: ''
+      label: Est. 2024
       color: text-primary
       type: Badge
     elementId: ''
@@ -26,9 +27,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-32
+          - pt-16
           - pl-16
-          - pb-60
+          - pb-20
           - pr-16
     backgroundImage:
       type: BackgroundImage
