@@ -102,7 +102,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Example store
+      text: PixelPop
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
