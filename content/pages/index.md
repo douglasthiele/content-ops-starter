@@ -7,7 +7,7 @@ sections:
       text: Thiele Venture
       color: text-neutral
       type: TitleBlock
-    subtitle: ''
+    subtitle: Est. 2024
     text: |
       Curating Trends, Delivering Dreams
     actions: []
