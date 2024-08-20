@@ -164,7 +164,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Some of the esteemed brands we represent
+  - subtitle: Brands we represent
     images:
       - altText: Empathy logo
         type: ImageBlock
