@@ -165,10 +165,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Brands we represent
-    images:
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
