@@ -36,7 +36,7 @@
         },
         {
             "type": "Link",
-            "label": "Brands we represent",
+            "label": "Brands",
             "altText": "",
             "url": "/brands",
             "showIcon": false,
