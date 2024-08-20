@@ -11,7 +11,7 @@ sections:
     text: |
       Curating Trends, Delivering Dreams
     actions:
-      - label: Our brans
+      - label: Brands we represent
         altText: ''
         url: /
         showIcon: false
