@@ -26,9 +26,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-24
           - pl-16
-          - pb-16
+          - pb-56
           - pr-16
     backgroundImage:
       type: BackgroundImage
@@ -37,6 +37,17 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-6
+          - pr-20
   - subtitle: Brands we represent
     images: []
     motion: move-to-left
@@ -168,7 +179,6 @@ sections:
       Email: [douglas@thieleventure.com]()
       Phone: +46 76 918 36 52
       Address: Vagnsgatan 6, 177 48 Järfälla
-      Org. Number: 041012-5751
     media:
       fields:
         - name: name
@@ -219,9 +229,10 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home
+  metaDescription: Official site for Thiele Venture.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---

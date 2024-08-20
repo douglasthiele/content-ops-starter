@@ -15,20 +15,9 @@
             "type": "Link",
             "label": "Home",
             "altText": "Home",
-            "url": "/Home",
+            "url": "/",
             "showIcon": true,
             "icon": "",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Contact us",
-            "altText": "",
-            "url": "/contact-us",
-            "showIcon": false,
-            "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
