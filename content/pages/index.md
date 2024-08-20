@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: test
+      label: Est. 2024
       color: text-primary
       type: Badge
     elementId: ''
