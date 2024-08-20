@@ -50,6 +50,6 @@
         }
     ],
     "copyrightText": "© 2024 Thiele Venture.\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
