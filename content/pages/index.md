@@ -7,7 +7,7 @@ sections:
       text: Thiele Venture
       color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: E-handel
     text: "Postorderhandel och\_detaljhandel\_på Internet med\_brett\_sortiment\n"
     actions:
       - label: Get started
