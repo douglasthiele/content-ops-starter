@@ -9,7 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Curating Trends, Delivering Dreams
+      Curating Trends, Delivering Dreams. 
+
+      Est. 2024
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
