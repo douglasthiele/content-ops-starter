@@ -79,13 +79,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Thiele Venture is your destination for trendy consumer goods online. We
-      blend innovation with quality by creating unique brands and dedicated
-      stores for each product category. Our mission is to deliver the latest
-      trends right to your doorstep, offering a seamless and inspiring customer
-      experience. From home décor to fashion and electronics – we have
-      everything to make your life easier and more stylish.
+    text: >+
+      \<div style="text-align: center">Thiele Venture is your destination for
+      trendy consumer goods online. We blend innovation with quality by creating
+      unique brands and dedicated stores for each product category. Our mission
+      is to deliver the latest trends right to your doorstep, offering a
+      seamless and inspiring customer experience. From home décor to fashion and
+      electronics – we have everything to make your life easier and more
+      stylish.\</div>
+
     badge:
       label: We deliver ecom
       color: text-primary
