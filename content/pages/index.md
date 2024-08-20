@@ -15,7 +15,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/Comingsoon.png
+      url: /images/hero3.svg
     badge:
       label: Est. 2024
       color: text-primary
