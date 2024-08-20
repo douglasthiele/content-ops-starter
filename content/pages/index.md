@@ -8,7 +8,8 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: ''
-    text: ''
+    text: |
+      Empowering Your Lifestyle, One Trend at a Time
     actions:
       - label: Get started
         altText: ''
