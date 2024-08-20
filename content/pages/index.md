@@ -46,7 +46,7 @@ sections:
         padding:
           - pt-40
           - pl-20
-          - pb-20
+          - pb-40
           - pr-20
   - subtitle: Brands we represent
     images: []
