@@ -170,7 +170,9 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      We'd love to hear from you! Whether you have questions, feedback, or just
+      want to say hello, feel free to reach out to us.
     text: >
       We'd love to hear from you! Whether you have questions, feedback, or just
       want to say hello, feel free to reach out to us.
