@@ -28,7 +28,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "Postorderhandel och\_detaljhandel\_på Internet med\_brett\_sortiment"
       color: text-primary
       type: Badge
     elementId: ''
