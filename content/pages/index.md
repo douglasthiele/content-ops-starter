@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Empowering Your Lifestyle, One Trend at a Time
+      Curating Trends, Delivering Dreams
     actions:
       - label: Get started
         altText: ''
