@@ -132,7 +132,7 @@ sections:
       text: Example
       color: text-dark
       type: TitleBlock
-    subtitle: Est. Example
+    subtitle: Est. ****
     text: |
       ExampleExampleExample
     actions:
