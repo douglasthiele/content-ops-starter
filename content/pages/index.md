@@ -212,11 +212,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Thiele Venture är din destination för trendiga konsumtionsvaror online. Vi
+      kombinerar innovation och kvalitet genom att skapa unika varumärken och
+      dedikerade butiker för varje produktkategori. Vår mission är att leverera
+      de senaste trenderna direkt till din dörr, med en kundupplevelse som är
+      både smidig och inspirerande. Från heminredning till mode och elektronik –
+      vi har allt för att göra ditt liv enklare och mer stilsäkert.
     badge:
       label: Key Benefits
       color: text-primary
