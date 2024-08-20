@@ -48,20 +48,6 @@ sections:
           - pl-20
           - pb-6
           - pr-20
-  - subtitle: Brands we represent
-    images: []
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
