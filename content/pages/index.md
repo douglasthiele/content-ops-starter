@@ -164,7 +164,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Some of our brands
     images:
       - altText: Empathy logo
         type: ImageBlock
