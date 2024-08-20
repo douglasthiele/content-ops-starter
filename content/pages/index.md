@@ -105,7 +105,7 @@ sections:
       text: PixelPop
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: 'More Than Photos, It''s Your Memories'
     text: |
       More Than Photos, It's Your Memories
     actions:
