@@ -29,7 +29,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-44
+          - pb-52
           - pr-16
     backgroundImage:
       type: BackgroundImage
