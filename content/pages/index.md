@@ -166,9 +166,6 @@ sections:
         textAlign: center
   - subtitle: Brands we represent
     images:
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
