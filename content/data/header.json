@@ -11,7 +11,19 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "/Contactus",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [
         {
             "label": "Sign up",
