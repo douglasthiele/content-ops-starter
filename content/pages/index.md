@@ -170,12 +170,9 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: |-
-      Thiele Venture
-      Email: douglas@thieleventure.com
-      Phone: +46 76 918 36 52
-      Address: Vagnsgatan 6, 177 48 Järfälla
-      Org. Number: 041012-5751
+    subtitle: >-
+      We'd love to hear from you! Whether you have questions, feedback, or just
+      want to say hello, feel free to reach out to us.
     text: |
       **Thiele Venture**
       Email: [douglas@thieleventure.com]()
