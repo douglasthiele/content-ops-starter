@@ -179,7 +179,6 @@ sections:
       Email: [douglas@thieleventure.com]()
       Phone: +46 76 918 36 52
       Address: Vagnsgatan 6, 177 48 Järfälla
-      Org. Number: 041012-5751
     media:
       fields:
         - name: name
