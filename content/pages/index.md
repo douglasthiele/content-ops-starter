@@ -133,9 +133,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ExampleExample
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      ExampleExampleExampleExampleExampleExampleExampleExampleExample
     actions:
       - label: Get started
         url: /
