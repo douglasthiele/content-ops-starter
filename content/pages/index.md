@@ -166,8 +166,6 @@ sections:
         textAlign: center
   - subtitle: Brands we represent
     images:
-      - altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
