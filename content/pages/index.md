@@ -105,7 +105,7 @@ sections:
       text: PixelPop
       color: text-dark
       type: TitleBlock
-    subtitle: 'More Than Photos, It''s Your Memories'
+    subtitle: Est. 2024
     text: |
       More Than Photos, It's Your Memories
     actions:
