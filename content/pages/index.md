@@ -174,10 +174,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: Brands we represent
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
