@@ -78,7 +78,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Curating Trends, Delivering Dreams'
+    subtitle: ''
     text: >
       Thiele Venture is your destination for trendy consumer goods online. We
       blend innovation with quality by creating unique brands and dedicated
