@@ -223,5 +223,6 @@ seo:
   metaDescription: Official site for Thiele Venture.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
