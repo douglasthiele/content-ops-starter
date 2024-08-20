@@ -87,7 +87,7 @@ sections:
       experience. From home décor to fashion and electronics – we have
       everything to make your life easier and more stylish.
     badge:
-      label: Key Benefits
+      label: we deliver ecom
       color: text-primary
       styles:
         self:
