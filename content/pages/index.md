@@ -11,7 +11,7 @@ sections:
     text: |
       Curating Trends, Delivering Dreams
     actions:
-      - label: Get started
+      - label: Contact us
         altText: ''
         url: /
         showIcon: false
