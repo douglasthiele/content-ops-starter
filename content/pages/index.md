@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Brands we represent
         altText: ''
-        url: /
+        url: /brands
         showIcon: false
         icon: arrowRight
         iconPosition: right
