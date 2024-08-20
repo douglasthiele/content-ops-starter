@@ -134,7 +134,7 @@ sections:
       type: TitleBlock
     subtitle: ExampleExample
     text: |
-      ExampleExampleExampleExampleExample. ExampleExampleExampleExample
+      ExampleExampleExampleExample. ExampleExampleExample
     actions:
       - label: Get started
         url: /
