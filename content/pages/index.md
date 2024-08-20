@@ -134,7 +134,7 @@ sections:
       type: TitleBlock
     subtitle: ExampleExample
     text: |
-      ExampleExampleExampleExample. ExampleExampleExample
+      ExampleExampleExample
     actions:
       - label: Shop now
         url: /
