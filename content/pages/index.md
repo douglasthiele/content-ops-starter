@@ -136,7 +136,7 @@ sections:
     text: |
       ExampleExampleExampleExample. ExampleExampleExample
     actions:
-      - label: Get started
+      - label: Shop now
         url: /
         icon: arrowRight
         iconPosition: right
