@@ -7,7 +7,7 @@ sections:
       text: Thiele Venture
       color: text-neutral
       type: TitleBlock
-    subtitle: E-handel
+    subtitle: 'Empowering Your Lifestyle, One Trend at a Time'
     text: "Postorderhandel och\_detaljhandel\_på Internet med\_brett\_sortiment\n"
     actions:
       - label: Get started
