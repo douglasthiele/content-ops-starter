@@ -166,9 +166,6 @@ sections:
         textAlign: center
   - subtitle: Brands we represent
     images:
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
