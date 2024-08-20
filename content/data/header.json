@@ -32,17 +32,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Brands",
-            "altText": "",
-            "url": "/brands",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
