@@ -176,7 +176,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Brands we represent
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
