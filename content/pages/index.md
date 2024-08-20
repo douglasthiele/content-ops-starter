@@ -87,7 +87,7 @@ sections:
       experience. From home décor to fashion and electronics – we have
       everything to make your life easier and more stylish.
     badge:
-      label: 'Curating Trends, Delivering Dreams'
+      label: We deliver ecom
       color: text-primary
       styles:
         self:
