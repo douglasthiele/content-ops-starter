@@ -7,7 +7,7 @@ sections:
       text: Thiele Venture
       color: text-neutral
       type: TitleBlock
-    subtitle: 'Empowering Your Lifestyle, One Trend at a Time'
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
