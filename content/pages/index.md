@@ -205,7 +205,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home
+  metaTitle: Thiele Venture
   metaDescription: Official site for Thiele Venture.
   socialImage: /images/main-hero.jpg
   type: Seo
