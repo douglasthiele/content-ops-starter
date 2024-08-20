@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Send email",
+            "label": "Home",
             "altText": "Play",
             "url": "/Contactus",
             "showIcon": true,
