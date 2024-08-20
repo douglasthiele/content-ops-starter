@@ -109,7 +109,7 @@ sections:
     text: |
       More Than Photos, It's Your Memories
     actions:
-      - label: Get started
+      - label: Shop now
         url: /
         icon: arrowRight
         iconPosition: right
