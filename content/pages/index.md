@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Thiele Venture
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
