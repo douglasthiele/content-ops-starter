@@ -16,7 +16,7 @@
             "type": "Link",
             "label": "Home",
             "altText": "Home",
-            "url": "/Contactus",
+            "url": "/Home",
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
