@@ -10,16 +10,7 @@ sections:
     subtitle: ''
     text: |
       Curating Trends, Delivering Dreams
-    actions:
-      - label: Brands we represent
-        altText: ''
-        url: /brands
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
