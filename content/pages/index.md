@@ -15,6 +15,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/Comingsoon.png
     badge:
       label: Est. 2024
       color: text-primary
