@@ -24,6 +24,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/favicon.svg
     badge:
       label: ''
       color: text-primary
