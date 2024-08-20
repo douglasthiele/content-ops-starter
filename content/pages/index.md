@@ -26,9 +26,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-24
+          - pt-32
           - pl-16
-          - pb-56
+          - pb-60
           - pr-16
     backgroundImage:
       type: BackgroundImage
@@ -37,31 +37,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-6
-          - pr-20
-  - subtitle: Brands we represent
-    images: []
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
