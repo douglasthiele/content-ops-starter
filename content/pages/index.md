@@ -47,7 +47,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: Coming soon
+  - subtitle: Brands we represent
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
