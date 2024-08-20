@@ -132,7 +132,7 @@ sections:
       text: Example
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ExampleExample
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
